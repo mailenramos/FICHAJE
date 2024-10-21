@@ -3,7 +3,7 @@ Integrantes:
 Mailen Ramos
 Matías Toledo
 Descripción del Proyecto
-Este proyecto consiste en el diseño y construcción de una base de datos para un sistema de registro de usuarios y sus entradas/salidas en diversos establecimientos. La base de datos permite almacenar y gestionar información de los usuarios, establecimientos y los registros de sus acciones.
+Este proyecto consiste en el diseño y construcción de una base de datos para un sistema de registro de usuarios y sus entradas/salidas en diversos establecimientos. 
 
 Tabla establecimientos:
 Columnas:
